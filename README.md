@@ -33,8 +33,8 @@ notifica al usuario al terminar cada bloque y lleva un registro de la sesión co
   </tr>
   <tr>
     <td align="center"><img src="screenshots/7.jpg" width="180"/><br/><b>¡Descansa!</b><br/>Temporizador de descanso con paleta verde y tomate animado relajado.</td>
-    <td align="center"><img src="screenshots/8.jpg" width="180"/><br/><b>¿Abandonar sesión?</b><br/>Diálogo de confirmación para evitar cerrar la sesión por accidente.</td>
-    <td align="center"><img src="screenshots/9.jpg" width="180"/><br/><b>Sesión completada</b><br/>Resumen con ciclos, tiempo de trabajo y descanso. Opción de nueva sesión.</td>
+    <td align="center"><img src="screenshots/9.jpg" width="180"/><br/><b>¿Abandonar sesión?</b><br/>Diálogo de confirmación para evitar cerrar la sesión por accidente.</td>
+    <td align="center"><img src="screenshots/8.jpg" width="180"/><br/><b>Sesión completada</b><br/>Resumen con ciclos, tiempo de trabajo y descanso. Opción de nueva sesión.</td>
   </tr>
 </table>
 
