@@ -1,0 +1,44 @@
+name: flutter_design_trivia
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  audioplayers: ^5.2.1
+  flutter_local_notifications: ^17.0.0
+  permission_handler: ^11.3.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  sketchy_design_lang: ^0.4.0
+  rough_notation: ^0.0.3
+  flutter_sketchy_text: ^2.0.3
+  flutter_launcher_icons: ^0.13.1  # ✅ corregido: tenía "lutter" y estaba fuera de dev_dependencies
+  flutter_lints: ^6.0.0            # ✅ corregido: estaba fuera de dev_dependencies
+
+# ✅ Esto va al nivel raíz, fuera de dev_dependencies
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/pomodorouni.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#F1FAEE"
+  adaptive_icon_foreground: "assets/images/pomodorouni.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/sounds/
