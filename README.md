@@ -33,7 +33,9 @@ Aplicación móvil de temporizador Pomodoro desarrollada por estudiantes de la U
 
 ## 🛠️ Tecnologías
 
-> _(Agrega aquí el stack de tu proyecto)_
+- **Flutter / Dart** — Framework principal de la app
+- **C++ / CMake** — Plugins nativos del motor de Flutter
+- **Swift** — Integración nativa en iOS
 
 ---
 
