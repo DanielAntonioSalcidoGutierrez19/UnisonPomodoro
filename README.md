@@ -8,6 +8,15 @@ Aplicación móvil de temporizador Pomodoro desarrollada por estudiantes de la U
 - Salcido Gutierrez Daniel Antonio
 
 ---
+## 📖 Descripción
+
+Pomodoro UNISON es una aplicación móvil desarrollada con Flutter como proyecto académico
+en la Universidad de Sonora. Implementa la técnica Pomodoro, un método de gestión del
+tiempo que divide el trabajo en bloques de concentración total separados por breves
+descansos, ayudando a mejorar la productividad y reducir la fatiga mental.
+
+La app permite configurar la duración del trabajo, los descansos y el número de ciclos,
+notifica al usuario al terminar cada bloque y lleva un registro de la sesión completada.
 
 ## 📱 Pantallas
 
